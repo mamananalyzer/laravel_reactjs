@@ -22,8 +22,6 @@
         ReactDOM.render(element, root);
 
 
-
-
         // function tick() {
         //     const element = (
         //         <div>
@@ -41,7 +39,6 @@
         // function Halo(props) {
         //     return <p>Halo <b>{props.name}</b></p>
         // }
-
         // const element = (
         //     <>
         //         <Halo name="Haha" />

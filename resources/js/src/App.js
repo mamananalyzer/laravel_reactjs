@@ -1,0 +1,11 @@
+import React from 'react';
+
+const App = () => {
+    return (
+        <div className="App_container">
+            This is App component
+        </div>
+    );
+};
+
+export default App;
