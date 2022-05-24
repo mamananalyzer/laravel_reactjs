@@ -586,7 +586,7 @@ a:focus {
 }
 
 .form select {
-  background: url(images/select-icon.png) no-repeat right center;
+  background: url(../images/select-icon.png) no-repeat right center;
   display: inline-block;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -619,7 +619,7 @@ a:focus {
 }
 
 .page-title {
-  background: url("images/page-title.jpg") center center/cover no-repeat local;
+  background: url("../images/page-title.jpg") center center/cover no-repeat local;
   height: 300px;
   text-align: center;
   position: relative;
@@ -1979,7 +1979,7 @@ a:focus {
 }
 
 .static-hero {
-  background: url("images/slider/slide-1.jpg") center center/cover no-repeat local;
+  background: url("../images/slider/slide-1.jpg") center center/cover no-repeat local;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -2007,7 +2007,7 @@ a:focus {
 #0.5	footer
 --------------------------------------------------------------*/
 .site-footer {
-  background: url("images/footer-bg.jpg") center center/cover no-repeat local;
+  background: url("../images/footer-bg.jpg") center center/cover no-repeat local;
   text-align: center;
   color: #fff;
   padding: 160px 0;
@@ -3389,7 +3389,7 @@ a:focus {
 
 .rsvp-section .form select {
   color: #2a2a2a;
-  background: #e6eceb url(images/select-icon.png) no-repeat calc(100% - 15px) center;
+  background: #e6eceb url(../images/select-icon.png) no-repeat calc(100% - 15px) center;
 }
 
 .rsvp-section .form textarea {
