@@ -73,50 +73,50 @@
 
         <!-- start of hero -->
         <section class="hero">
-            <div class="hero-slider hero-slider-s1 slick-initialized slick-slider slick-dotted" role="toolbar"><button type="button" class="slick-prev slick-arrow" style="display: block;">Previous</button>
-                <div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 3820px;"><div class="slide-item slick-slide slick-current slick-active" data-slick-index="0" style="background-image: url(&quot;images/slider/slide-1.jpg&quot;); background-size: cover; background-position: center center; width: 1910px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00">
-                    <img src="Lovly/slide-1.jpg" alt="" class="slider-bg">
-                </div><div class="slide-item slick-slide" data-slick-index="1" style="background-image: url(&quot;images/slider/slide-2.jpg&quot;); background-size: cover; background-position: center center; width: 1910px; position: relative; left: -1910px; top: 0px; z-index: 998; opacity: 0;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01">
-                    <img src="Lovly/slide-2.jpg" alt="" class="slider-bg">
-                </div></div></div>
+            <div class="hero-slider hero-slider-s1">
+                <div class="slide-item">
+                    <img src="Lovly/images/slider/slide-1.jpg" alt class="slider-bg">
+                </div>
 
-                
-            <button type="button" class="slick-next slick-arrow" style="display: block;">Next</button><ul class="slick-dots" style="display: block;" role="tablist"><li class="slick-active" aria-hidden="false" role="presentation" aria-selected="true" aria-controls="navigation00" id="slick-slide00"><button type="button" data-role="none" role="button" tabindex="0">1</button></li><li aria-hidden="true" role="presentation" aria-selected="false" aria-controls="navigation01" id="slick-slide01"><button type="button" data-role="none" role="button" tabindex="0">2</button></li></ul></div>
+                <div class="slide-item">
+                    <img src="Lovly/images/slider/slide-2.jpg" alt class="slider-bg">
+                </div>
+            </div>
             <div class="wedding-announcement">
                 <div class="couple-name-merried-text">
-                    <h2 class="wow slideInUp" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-name: slideInUp;">Suntina &amp; Famico</h2>
-                    <div class="married-text wow fadeIn" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeIn;">
+                    <h2 class="wow slideInUp" data-wow-duration="1s">Ade &amp; Irma</h2>
+                    <div class="married-text wow fadeIn" data-wow-delay="1s">
                         <h4 class="">
-                        <span class="wow fadeInUp" data-wow-delay="1.05s" style="visibility: visible; animation-delay: 1.05s; animation-name: fadeInUp;">W</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.10s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeInUp;">e</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.15s" style="visibility: visible; animation-delay: 1.15s; animation-name: fadeInUp;">'</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.20s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInUp;">r</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.25s" style="visibility: visible; animation-delay: 1.25s; animation-name: fadeInUp;">e</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.05s">W</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.10s">e</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.15s">'</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.20s">r</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.25s">e</span>
                         <span>&nbsp;</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.30s" style="visibility: visible; animation-delay: 1.3s; animation-name: fadeInUp;">g</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.35s" style="visibility: visible; animation-delay: 1.35s; animation-name: fadeInUp;">e</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.40s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeInUp;">t</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.45s" style="visibility: visible; animation-delay: 1.45s; animation-name: fadeInUp;">t</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.50s" style="visibility: visible; animation-delay: 1.5s; animation-name: fadeInUp;">i</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.55s" style="visibility: visible; animation-delay: 1.55s; animation-name: fadeInUp;">n</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.60s" style="visibility: visible; animation-delay: 1.6s; animation-name: fadeInUp;">g</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.30s">g</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.35s">e</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.40s">t</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.45s">t</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.50s">i</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.55s">n</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.60s">g</span>
                         <span>&nbsp;</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.65s" style="visibility: visible; animation-delay: 1.65s; animation-name: fadeInUp;">m</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.70s" style="visibility: visible; animation-delay: 1.7s; animation-name: fadeInUp;">a</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.75s" style="visibility: visible; animation-delay: 1.75s; animation-name: fadeInUp;">r</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.80s" style="visibility: visible; animation-delay: 1.8s; animation-name: fadeInUp;">r</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.85s" style="visibility: visible; animation-delay: 1.85s; animation-name: fadeInUp;">i</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.90s" style="visibility: visible; animation-delay: 1.9s; animation-name: fadeInUp;">e</span>
-                        <span class="wow fadeInUp" data-wow-delay="1.95s" style="visibility: visible; animation-delay: 1.95s; animation-name: fadeInUp;">d</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.65s">m</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.70s">a</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.75s">r</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.80s">r</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.85s">i</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.90s">e</span>
+                        <span class=" wow fadeInUp" data-wow-delay="1.95s">d</span>
 
                         </h4>
                     </div>
                     <!-- <i class="fa fa-heart"></i> -->
                 </div>
 
-                <div class="save-the-date popup-save-the-date">
+                <div class="save-the-date">
                     <h4>Save the date</h4>
-                    <span class="date">25 DEC 2017</span>
+                    <span class="date">17 JUL 2022</span>
                 </div>
             </div>
         </section>
@@ -134,34 +134,34 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="couple-logo">
-                            <h1><a href="Lovly/#home">S <i class="fi flaticon-shape-1"></i> F</a></h1>
+                            <h1><a href="#home">A <i class="fi flaticon-shape-1"></i> I</a></h1>
                         </div>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="fa fa-close"></i></button>
                         <ul class="nav navbar-nav">
-                            <li><a href="Lovly/#home">Home</a></li>
-                            <li><a href="Lovly/#couple">Couple</a></li>
-                            <li><a href="Lovly/#story">Story</a></li>
-                            <li><a href="Lovly/#events">Events</a></li>
-                            <li><a href="Lovly/#people">People</a></li>
-                            <li><a href="Lovly/#gallery">Gallery</a></li>
-                            <li><a href="Lovly/#rsvp">RSVP</a></li>
-                            <li class="menu-item-has-children">
+                            <li><a href="#home">Home</a></li>
+                            <li><a href="#couple">Couple</a></li>
+                            <li><a href="#story">Story</a></li>
+                            <li><a href="#events">Events</a></li>
+                            <li><a href="#people">People</a></li>
+                            <li><a href="#gallery">Gallery</a></li>
+                            <li><a href="#rsvp">RSVP</a></li>
+                            {{-- <li class="menu-item-has-children">
                                 <a href="javascript:void(0);">Blog</a>
                                 <ul class="sub-menu">
                                     <li><a href="Lovly/blog.html">Blog</a></li>
                                     <li><a href="Lovly/blog-details.html">Blog Details</a></li>
                                     <li class="menu-item-has-children">
-                                        <a href="Lovly/#Level3">Thidr level</a>
+                                        <a href="#Level3">Thidr level</a>
                                         <ul class="sub-menu">
-                                            <li><a href="Lovly/#">Level3</a></li>
-                                            <li><a href="Lovly/#">Level3</a></li>
-                                            <li><a href="Lovly/#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div><!-- end of nav-collapse -->
                 </div><!-- end of container -->
@@ -175,34 +175,34 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="couple-logo">
-                            <h1><a href="Lovly/#home">S <i class="fi flaticon-shape-1"></i> F</a></h1>
+                            <h1><a href="#home">A <i class="fi flaticon-shape-1"></i> I</a></h1>
                         </div>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="fa fa-close"></i></button>
                         <ul class="nav navbar-nav">
-                            <li><a href="Lovly/#home">Home</a></li>
-                            <li><a href="Lovly/#couple">Couple</a></li>
-                            <li><a href="Lovly/#story">Story</a></li>
-                            <li><a href="Lovly/#events">Events</a></li>
-                            <li><a href="Lovly/#people">People</a></li>
-                            <li><a href="Lovly/#gallery">Gallery</a></li>
-                            <li><a href="Lovly/#rsvp">RSVP</a></li>
-                            <li class="menu-item-has-children">
+                            <li><a href="#home">Home</a></li>
+                            <li><a href="#couple">Couple</a></li>
+                            <li><a href="#story">Story</a></li>
+                            <li><a href="#events">Events</a></li>
+                            <li><a href="#people">People</a></li>
+                            <li><a href="#gallery">Gallery</a></li>
+                            <li><a href="#rsvp">RSVP</a></li>
+                            {{-- <li class="menu-item-has-children">
                                 <a href="javascript:void(0);">Blog</a>
                                 <ul class="sub-menu">
                                     <li><a href="Lovly/blog.html">Blog</a></li>
                                     <li><a href="Lovly/blog-details.html">Blog Details</a></li>
                                     <li class="menu-item-has-children">
-                                        <a href="Lovly/#Level3">Thidr level</a>
+                                        <a href="#Level3">Thidr level</a>
                                         <ul class="sub-menu">
-                                            <li><a href="Lovly/#">Level3</a></li>
-                                            <li><a href="Lovly/#">Level3</a></li>
-                                            <li><a href="Lovly/#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
+                                            <li><a href="#">Level3</a></li>
                                         </ul>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> --}}
                         </ul>
                     </div><!-- end of nav-collapse -->
                 </div><!-- end of container -->
@@ -302,16 +302,16 @@
                                 </div>
                                 <div class="col col-md-6">
                                     <div class="img-holder">
-                                        <img src="Lovly/img-1(1).jpg" alt="" class="img img-responsive">
+                                        <img src="Lovly/images/story/img-1.jpg" alt class="img img-responsive">
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col col-md-6">
-                                    <div class="img-holder right-align-text story-slider owl-carousel owl-theme owl-loaded">
-
-
-                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1760px, 0px, 0px); transition: all 1s ease 0s; width: 2640px;"><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-2(1).jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-3.jpg" alt="" class="img img-responsive"></div><div class="owl-item" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-2(1).jpg" alt="" class="img img-responsive"></div><div class="owl-item" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-3.jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned active" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-2(1).jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-3.jpg" alt="" class="img img-responsive"></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+                                    <div class="img-holder right-align-text story-slider">
+                                        <img src="Lovly/images/story/img-2.jpg" alt class="img img-responsive">
+                                        <img src="Lovly/images/story/img-3.jpg" alt class="img img-responsive">
+                                    </div>
                                 </div>
                                 <div class="col col-md-6 text-holder">
                                     <span class="heart">
@@ -336,16 +336,16 @@
                                     </div>
                                 </div>
                                 <div class="col col-md-6">
-                                    <div class="img-holder right-align-text story-slider owl-carousel owl-theme owl-loaded">
-
-
-                                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1760px, 0px, 0px); transition: all 1s ease 0s; width: 2640px;"><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-7.jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-5.jpg" alt="" class="img img-responsive"></div><div class="owl-item" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-7.jpg" alt="" class="img img-responsive"></div><div class="owl-item" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-5.jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned active" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-7.jpg" alt="" class="img img-responsive"></div><div class="owl-item cloned" style="width: 440px; margin-right: 0px;"><img src="Lovly/img-5.jpg" alt="" class="img img-responsive"></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: none;"></div></div></div>
+                                    <div class="img-holder right-align-text story-slider">
+                                        <img src="Lovly/images/story/img-7.jpg" alt class="img img-responsive">
+                                        <img src="Lovly/images/story/img-5.jpg" alt class="img img-responsive">
+                                    </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col col-md-6">
                                     <div class="img-holder video-holder">
-                                        <img src="Lovly/img-8.jpg" alt="" class="img img-responsive">
+                                        <img src="Lovly/images/story/img-8.jpg" alt class="img img-responsive">
                                         <a href="https://www.youtube.com/embed/XSGBVzeBUbk?autoplay=1" data-type="iframe" class="video-play-btn">
                                             <i class="fa fa-play"></i>
                                         </a>
@@ -867,9 +867,6 @@
                         <div class="gif-registration-slider owl-carousel owl-theme owl-loaded">
 
 
-
-
-
                         <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1260px, 0px, 0px); transition: all 1s ease 0s; width: 3485px; padding-left: 10px; padding-right: 10px;"><div class="owl-item cloned" style="width: 295px; margin-right: 20px;"><div class="register">
                                 <img src="Lovly/img-3(4).jpg" alt="" class="img img-responsive">
                             </div></div><div class="owl-item cloned" style="width: 295px; margin-right: 20px;"><div class="register">
@@ -923,14 +920,14 @@
 
     <!-- All JavaScript files
     ================================================== -->
-    <script src="Lovly/jquery.min.js.download"></script>
-    <script src="Lovly/bootstrap.min.js.download"></script>
+    <script src="Lovly/jquery.min.js"></script>
+    <script src="Lovly/bootstrap.min.js"></script>
 
     <!-- Plugins for this template -->
-    <script src="Lovly/jquery-plugin-collection.js.download"></script>
+    <script src="Lovly/jquery-plugin-collection.js"></script>
 
     <!-- Custom script for this template -->
-    <script src="Lovly/script.js.download"></script>
+    <script src="Lovly/script.js"></script>
 
 
 </body></html>
