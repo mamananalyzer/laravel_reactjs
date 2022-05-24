@@ -25,6 +25,12 @@ Route::get('/welcome', function () {
 Route::get('/app', function () {
     return view('App');
 });
+Route::get('/invitation', function () {
+    return view('invitation.index');
+});
+Route::get('/lovely', function () {
+    return view('invitation.lovly');
+});
 
 Auth::routes();
 
