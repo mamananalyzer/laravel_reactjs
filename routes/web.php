@@ -1,5 +1,6 @@
 <?php
 
+
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,17 +14,21 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/next', function () {
-    return view('layout.project');
-});
-Route::get('/welcome', function () {
-    return view('layout.welcome');
-});
-Route::get('/app', function () {
-    return view('App');
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::get('/', 'App\Http\Controllers\BasesController@index');
+Route::get('/products/create', 'BasesController@create');
+Route::get('/products/{product}', 'BasesController@show');
+Route::post('/products', 'BasesController@store');
+Route::delete('/products/{product}', 'BasesController@destroy');
+Route::get('/products/{product}/edit', 'BasesController@edit');
+Route::patch('/products/{product}', 'BasesController@update');
+
+
+Route::get('/wedding', function () {
+    return view('wedding.index');
 });
 Route::get('/invitation', function () {
     return view('invitation.index');
@@ -34,4 +39,4 @@ Route::get('/lovely', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+// Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
